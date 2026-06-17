@@ -1,0 +1,7 @@
+# Dataset folders and CSV files
+train/
+test/
+Training_set.csv
+Testing_set.csv
+.ipynb_checkpoints/
+.DS_Store
